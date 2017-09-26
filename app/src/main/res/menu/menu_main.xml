@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item android:id="@+id/contact"
+            android:icon="@drawable/ic_action_contact"
+            android:title="Employess" />
+        <item android:id="@+id/location"
+            android:icon="@drawable/ic_action_name"
+            android:title="Branches" />
+    <item android:id="@+id/phone"
+        android:icon="@drawable/ic_action_phone"
+        android:title="Contacts" />
+    <item android:id="@+id/info"
+        android:icon="@drawable/ic_action_info"
+        android:title="Info" />
+    </menu>
